@@ -1,4 +1,4 @@
-# Mastercard Právní Pomoc - Web App
+# Právní Pomoc - Legal Assistance Web App
 
 Lightweight web application for legal assistance form based on business requirements.
 
@@ -7,12 +7,12 @@ Lightweight web application for legal assistance form based on business requirem
 Completed a 3-step form application matching the specifications from `input.md`:
 
 ### Step 1: Welcome Screen
-- ✅ Mastercard branding with logo
+- ✅ Clean branding with simple text logo
 - ✅ Main heading: "Potřebujete právní pomoc?"
 - ✅ Subtitle about debt collection and document preparation
 - ✅ Navigation: "O nás", "Služby", "Kontakt" 
 - ✅ CTA button: "Nahlásit událost"
-- ✅ Legal theme background with gavel motif
+- ✅ Professional orange gradient background
 
 ### Step 2: Card Verification
 - ✅ Input field for exactly 8 digits
@@ -51,12 +51,12 @@ Completed a 3-step form application matching the specifications from `input.md`:
 
 ## Design System
 
-Updated to match official Mastercard branding:
-- **Colors**: Primary Orange (#ff671b), Secondary Gold (#f38b00)
+Professional orange theme with clean modern design:
+- **Colors**: Primary Orange (#ff671b), Secondary Gold (#f38b00), Red (#eb001b)
 - **Typography**: Helvetica Neue with proper font weights
-- **Logo**: Authentic overlapping circles design
+- **Branding**: Simple text-based logo without corporate branding
 - **Layout**: Clean, modern with proper spacing
-- **Interactions**: Subtle hover effects matching brand guidelines
+- **Interactions**: Subtle hover effects with orange accents
 
 ## Testing
 
